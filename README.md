@@ -1,4 +1,4 @@
-# **Analisis Data Restoran dengan KMeans Clusterisasi dan Klasifikasi Menggunakan Random Forest**
+# **Analisis Data Restoran dengan KMeans Clusterisasi dan Klasifikasi Menggunakan Random Forest** dan **Logistic Regression**
 
 Repositori ini berisi proyek analisis data restoran yang diambil dari dataset **Swiggy** yang tersedia di Kaggle. Proyek ini menggunakan **algoritma KMeans** untuk melakukan **clusterisasi** restoran berdasarkan beberapa fitur, kemudian menggunakan **PCA (Principal Component Analysis)** untuk **feature selection** sebelum melanjutkan ke tahap **klasifikasi** dengan **Random Forest** untuk memprediksi kategori restoran berdasarkan cluster yang terbentuk.
 
